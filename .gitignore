@@ -180,9 +180,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Fichiers de présentation de projet
-~$*
-.docx
+# Fichiers de présentation de projet et fichiers temp
 .pptx
 *.docx
 ~*
